@@ -1,6 +1,5 @@
 # Super Resolution Generative Adversial Network (SR-GAN) Image upsampling
   - An implement of SRGAN for tensorflow version.
-<<<<<<< HEAD
   - Objective: Enhance the resolution of low-resolution images to produce high-resolution versions while preserving details and realism
 
 # Requirements
@@ -24,7 +23,6 @@
   
         $ git clone https://github.com/animeshraghav/SR-GAN-Image-upsampling.git
         $ cd Model
-=======
   - 
 
 # Requirements
@@ -37,4 +35,3 @@
   
         $ git clone https://github.com/animeshraghav/SR-GAN-Image-upsampling.git
         $ cd Model
->>>>>>> 0ae8298e04cd4ef11573abf099960009e4e07254
